@@ -134,7 +134,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>dart=0</string>
+		<string>dart=0 -v debug=0x100 keepsyms=1 darkwake=no</string>
 		<key>Debug</key>
 		<true/>
 		<key>DefaultVolume</key>
@@ -209,9 +209,11 @@
 			<key>Entries</key>
 			<true/>
 			<key>Legacy</key>
-			<string>First</string>
+			<false/>
+			<key>Linux</key>
+			<false/>
 			<key>Tool</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>ScreenResolution</key>
 		<string>1920x1080</string>
@@ -295,12 +297,14 @@
 	<dict>
 		<key>BiosVersion</key>
 		<string>IM142.88Z.F000.B00.1902141634</string>
+		<key>BoardSerialNumber</key>
+		<string>C02711404GUJG36JA</string>
 		<key>ProductName</key>
-		<string>iMac14,2</string>
+		<string>iMacPro1,1</string>
 		<key>SerialNumber</key>
-		<string>C02MKOAVF8JC</string>
+		<string>C02TF0WXHX87</string>
 		<key>Trust</key>
-		<false/>
+		<true/>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
