@@ -18,3 +18,4 @@ Lilu.kext
 LittleSnitch.kext
 PromiseSTEX.kext
 SoftRAID.kext
+WhateverGreen.kext
