@@ -1,0 +1,8 @@
+ApfsDriverLoader-64.efi
+AudioDxe-64.efi
+DataHubDxe-64.efi
+EmuVariableUefi-64.efi
+FSInject-64.efi
+OsxAptioFix2Drv-free2000.efi
+SMCHelper-64.efi
+VBoxHfs-64.efi
