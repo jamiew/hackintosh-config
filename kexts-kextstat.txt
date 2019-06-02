@@ -5,5 +5,5 @@ Index Refs Address            Size       Wired      Name (Version) UUID <Linked 
    20    0 0xffffff7f811f5000 0x7000     0x7000     as.lvs1974.AirportBrcmFixup (1.1.9) 028D3DBE-65DA-3926-9115-9A491A0C08F8 <19 17 13 8 6 5 3 2 1>
    65    0 0xffffff7f80ebc000 0x187000   0x187000   at.obdev.nke.LittleSnitch (5284) E548A53A-C0A0-3554-8C0A-9408C5B3CD7A <8 6 5 3 1>
    91    0 0xffffff7f80eaf000 0xb000     0xb000     org.hwsensors.driver.ACPISensors (1800) FA4DF6C0-0D3A-3CE2-8569-0AB2C84053E7 <16 12 8 6 5 3>
-  115    0 0xffffff7f80d30000 0x7000     0x7000     org.hwsensors.driver.CPUSensors (1800) ED90DA0F-5876-3DB5-82EC-CEEA470A7479 <16 8 6 5 3>
-  120    0 0xffffff7f80d37000 0x16000    0x16000    org.hwsensors.driver.GPUSensors (1800) C6BE6BDA-2398-3318-BCF0-F519AD4DB140 <16 13 12 8 6 5 3>
+  114    0 0xffffff7f80d30000 0x7000     0x7000     org.hwsensors.driver.CPUSensors (1800) ED90DA0F-5876-3DB5-82EC-CEEA470A7479 <16 8 6 5 3>
+  117    0 0xffffff7f80d37000 0x16000    0x16000    org.hwsensors.driver.GPUSensors (1800) C6BE6BDA-2398-3318-BCF0-F519AD4DB140 <16 13 12 8 6 5 3>

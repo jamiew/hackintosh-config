@@ -2,8 +2,6 @@ ACS6x.kext
 ATTOCelerityFC8.kext
 ATTOExpressSASHBA2.kext
 ATTOExpressSASRAID2.kext
-AirportBrcmFixup.kext
-AppleALC.kext
 ArcMSR.kext
 CalDigitHDProDrv.kext
 FakeSMC.kext
@@ -14,8 +12,6 @@ FakeSMC_LPCSensors.kext
 FakeSMC_SMMSensors.kext
 HighPointIOP.kext
 HighPointRR.kext
-Lilu.kext
 LittleSnitch.kext
 PromiseSTEX.kext
 SoftRAID.kext
-WhateverGreen.kext

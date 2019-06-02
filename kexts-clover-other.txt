@@ -1,0 +1,5 @@
+AirportBrcmFixup.kext
+AppleALC.kext
+FakeSMC.kext
+Lilu.kext
+WhateverGreen.kext
