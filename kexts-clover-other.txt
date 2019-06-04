@@ -2,4 +2,5 @@ AirportBrcmFixup.kext
 AppleALC.kext
 FakeSMC.kext
 Lilu.kext
+USBInjectAll.kext
 WhateverGreen.kext
