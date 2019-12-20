@@ -1,0 +1,8 @@
+28:450  0:024  Preparing kexts injection for arch=x86_64 from EFI\CLOVER\kexts\Other
+28:469  0:019  Extra kext: EFI\CLOVER\kexts\Other\USBInjectAll.kext (v.0.7.1)
+28:513  0:043  Extra kext: EFI\CLOVER\kexts\Other\AppleALC.kext (v.1.3.8)
+28:609  0:096  Extra kext: EFI\CLOVER\kexts\Other\AirportBrcmFixup.kext (v.2.0.0)
+28:649  0:040  Extra kext: EFI\CLOVER\kexts\Other\WhateverGreen.kext (v.1.2.9)
+28:679  0:029  Extra kext: EFI\CLOVER\kexts\Other\Lilu.kext (v.1.3.6)
+28:705  0:025  Extra kext: EFI\CLOVER\kexts\Other\FakeSMC.kext (v.1800)
+28:735  0:030  Preparing kexts injection for arch=x86_64 from EFI\CLOVER\kexts\10.14
