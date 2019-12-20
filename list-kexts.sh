@@ -1,14 +1,19 @@
 #!/bin/sh
 
-bdmesg | grep kext > kexts-bdmesg.txt
+dir="kext-debugging"
+mkdir "$dir"
 
-kextstat | grep -v com.apple > kexts-kextstat.txt
+bdmesg | grep kext > $dir/kexts-bdmesg.txt
 
-ls /Library/Extensions/ > kexts-ls.txt
+kextstat | grep -v com.apple > $dir/kexts-kextstat.txt
 
-ls /Volumes/EFI/EFI/CLOVER/drivers64UEFI/ > kexts-drivers64uefi.txt
-ls /Volumes/EFI/EFI/CLOVER/drivers64/ > kexts-drivers64.txt
+ls /Library/Extensions/ > $dir/kexts-ls.txt
 
-ls /Volumes/EFI/EFI/CLOVER/kexts/Other > kexts-clover-other.txt
+ls /Volumes/EFI/EFI/CLOVER/drivers64UEFI/ > $dir/kexts-drivers64uefi.txt
+ls /Volumes/EFI/EFI/CLOVER/drivers64/ > $dir/kexts-drivers64.txt
 
-ls /Volumes/EFI/EFI/CLOVER/Drivers/UEFI/ > kexts-drivers-uefi-new.txt
+ls /Volumes/EFI/EFI/CLOVER/kexts/Other > $dir/kexts-clover-other.txt
+
+# Clover seems to have moved frmo CLOVER/drivers64* to this directory
+# as of version ???
+ls /Volumes/EFI/EFI/CLOVER/Drivers/UEFI/ > $dir/kexts-drivers-uefi-new.txt
