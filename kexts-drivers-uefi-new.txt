@@ -1,0 +1,8 @@
+ApfsDriverLoader.efi
+AptioMemoryFix.efi
+AudioDxe.efi
+DataHubDxe.efi
+EmuVariableUefi.efi
+FSInject.efi
+SMCHelper.efi
+VBoxHfs.efi
