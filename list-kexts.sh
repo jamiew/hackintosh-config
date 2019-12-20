@@ -1,7 +1,7 @@
 #!/bin/sh
 
 dir="kext-debugging"
-mkdir "$dir"
+mkdir -p $dir
 
 bdmesg | grep kext > $dir/kexts-bdmesg.txt
 
