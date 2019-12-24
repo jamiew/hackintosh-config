@@ -1,2 +1,0 @@
-ApfsDriverLoader-64.efi
-AptioMemoryFix.efi
