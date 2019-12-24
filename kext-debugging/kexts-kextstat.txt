@@ -5,6 +5,6 @@ Index Refs Address            Size       Wired      Name (Version) UUID <Linked 
    40    0 0xffffff7f86258000 0x125000   0x125000   as.vit9696.AppleALC (1.4.4) 73649D93-8D83-30C0-A5C2-78DCBE7ABCC1 <38 13 8 6 5 3 2 1>
    41    0 0xffffff7f8637d000 0x67000    0x67000    as.vit9696.WhateverGreen (1.3.5) 6ACC7CE0-CBAA-39FB-8176-054043B4EFF2 <38 13 8 6 5 3 2 1>
    66    0 0xffffff7f80ebc000 0x188000   0x188000   at.obdev.nke.LittleSnitch (5430) 7462BC7A-1330-3F92-A73F-3FBFE331C74A <8 6 5 3 1>
-  105    0 0xffffff7f80eaf000 0xb000     0xb000     org.hwsensors.driver.ACPISensors (1800) FA4DF6C0-0D3A-3CE2-8569-0AB2C84053E7 <16 12 8 6 5 3>
-  121    0 0xffffff7f80d30000 0x7000     0x7000     org.hwsensors.driver.CPUSensors (1800) ED90DA0F-5876-3DB5-82EC-CEEA470A7479 <16 8 6 5 3>
-  125    0 0xffffff7f80d37000 0x16000    0x16000    org.hwsensors.driver.GPUSensors (1800) C6BE6BDA-2398-3318-BCF0-F519AD4DB140 <16 13 12 8 6 5 3>
+   98    0 0xffffff7f80eaf000 0xb000     0xb000     org.hwsensors.driver.ACPISensors (1800) FA4DF6C0-0D3A-3CE2-8569-0AB2C84053E7 <16 12 8 6 5 3>
+  109    0 0xffffff7f80d30000 0x7000     0x7000     org.hwsensors.driver.CPUSensors (1800) ED90DA0F-5876-3DB5-82EC-CEEA470A7479 <16 8 6 5 3>
+  123    0 0xffffff7f80d37000 0x16000    0x16000    org.hwsensors.driver.GPUSensors (1800) C6BE6BDA-2398-3318-BCF0-F519AD4DB140 <16 13 12 8 6 5 3>
