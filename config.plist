@@ -138,7 +138,7 @@
 		<key>Debug</key>
 		<true/>
 		<key>DefaultVolume</key>
-		<string>66747539-B5EB-395A-B136-BAC71B87FA28</string>
+		<string>LastBootedVolume</string>
 		<key>Legacy</key>
 		<string>PBR</string>
 		<key>Secure</key>
